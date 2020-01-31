@@ -30,7 +30,7 @@
     "mz:is_current":0,
     "sfomuseum:placetype":"weather",
     "sfomuseum:uri":"2018/12/24/20181224T122254.json",
-    "src:geom":"unknown",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1528002847,
-    "wof:lastmodified":1580430290,
+    "wof:lastmodified":1580494026,
     "wof:name":"FAA status for SFO, 2018-12-24T12:22:54",
     "wof:parent_id":102527513,
     "wof:placetype":"custom",

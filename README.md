@@ -11,6 +11,8 @@ This is highly experiental work right now. If you are planning to try using it, 
 ## Example
 
 ```
+$> cat data/152/799/564/7/1527995647.geojson
+
 {
   "id": 1527995647,
   "type": "Feature",
@@ -41,7 +43,7 @@ This is highly experiental work right now. If you are planning to try using it, 
     "mz:is_current":0,
     "sfomuseum:placetype":"weather",
     "sfomuseum:uri":"2018/08/29/20180829T170754.json",
-    "src:geom":"unknown",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -81,7 +83,7 @@ This is highly experiental work right now. If you are planning to try using it, 
         }
     ],
     "wof:id":1527995647,
-    "wof:lastmodified":1580430177,
+    "wof:lastmodified":1580493883,
     "wof:name":"FAA status for SFO, 2018-08-29T17:07:54",
     "wof:parent_id":102527513,
     "wof:placetype":"custom",
@@ -98,6 +100,7 @@ This is highly experiental work right now. If you are planning to try using it, 
 ],
   "geometry": {"coordinates":[-122.37,37.62],"type":"Point"}
 }
+
 ```
 
 ## License
