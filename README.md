@@ -4,7 +4,7 @@ FAA weather data for SFO (2018)
 
 ## Important
 
-This is highly experiental work right now. If you are planning to try using it, for anything at all, understand that everything is in flux and subject to change and may still break along the way.
+Data is only from 2018-08-18 through 2018-12-31.
 
 ## License
 
